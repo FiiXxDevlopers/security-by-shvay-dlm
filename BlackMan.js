@@ -44,7 +44,7 @@ client.on("message", async message => {
     
       .setDescription(`
       
-  
+  __ [invite](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __
 
 ━──╮•╭──━
 ⌖| Security
@@ -57,13 +57,12 @@ client.on("message", async message => {
 ⌖| Public
 > bot , server , ping , profile , uinvites , hightRole , nick
 > user , avatar , roles , emoji
-━──╮•╭──━
 ⌖| Moderation
 > , ban , kick , mute , unmute , slowmode , bans
 > say , unban[userid/all]
-━──╮•╭──━
 
-__ [Vote](link top gg) __  
+
+
 __ [invite](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [Support](https://discord.gg/kxFvrqV9Qu) __
 
 `);
