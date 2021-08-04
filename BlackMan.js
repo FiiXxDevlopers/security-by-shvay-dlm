@@ -43,9 +43,8 @@ client.on("message", async message => {
       .setThumbnail(message.guild.iconURL)
     
       .setDescription(`
-      
+<a:emoji_133:770782656978878495> PRIFIX < ( s! ) >   
   __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/kxFvrqV9Qu) __ 
-•
 
 <:emoji_3:872565620598767686> / 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 /
 > 𝚊𝚗𝚝𝚒 𝚋𝚊𝚗 { NUMBER }
