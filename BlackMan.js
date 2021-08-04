@@ -46,16 +46,21 @@ client.on("message", async message => {
       
   __ [Click Your INVITE](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [Click Your SUPPORT](https://discord.gg/kxFvrqV9Qu)
 •
-⌖| Security
-> anti ban [Number]
-> anti kick [Number]
-> anti channel [Number]
-> anti role [Number]
-> anti bot [on / off]⌖| Public
-> bot , server , ping , profile , uinvites , hightRole , nick
-> user , avatar , roles , emoji⌖| Moderation
-> , ban , kick , mute , unmute , slowmode , bans
-> say , unban[userid/all]
+
+    / 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 /
+> 𝚊𝚗𝚝𝚒 𝚋𝚊𝚗 { NUMBER }
+> 𝚊𝚗𝚝𝚒 𝚔𝚒𝚔 { NUMBER }
+> 𝚊𝚗𝚝𝚒 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 ( 𝙳 - 𝙲 ) { NUMBER }
+> 𝚊𝚗𝚝𝚒 𝚛𝚘𝚕𝚎 ( 𝙳 - 𝙲 ) { NUMBER }
+> 𝚊𝚗𝚝𝚒 𝚋𝚘𝚝 ( 𝙾𝙽 / 𝙾𝙵 ) 
+        / 𝙋𝙐𝘽𝙇𝙄𝘾 /
+> 𝚋𝚘𝚝 , 𝚜𝚎𝚛𝚟𝚎𝚛 , 𝚙𝚒𝚗𝚐 , 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ,
+𝚞𝚒𝚗𝚟𝚒𝚝𝚎𝚜 , 𝚑𝚒𝚐𝚑𝚛𝚘𝚕𝚎 , 𝚗𝚒𝚌𝚔
+> 𝚞𝚜𝚎𝚛 , 𝚊𝚟𝚊𝚝𝚊𝚛 , 𝚛𝚘𝚕𝚎𝚜 , 𝚎𝚖𝚘𝚓𝚒 
+     / 𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙄𝙊𝙉 /
+> 𝚋𝚊𝚗 , 𝚔𝚒𝚌𝚔 , 𝚖𝚞𝚝𝚎 ,𝚞𝚗𝚖𝚞𝚝𝚎
+, 𝚜𝚕𝚘𝚠𝚖𝚘𝚍𝚎 , 𝚋𝚊𝚗𝚜
+> 𝚜𝚊𝚢 , 𝚞𝚗𝚋𝚊𝚗 [ 𝚞𝚜𝚎𝚛(𝙸𝙳)/𝚊𝚕𝚕 ]
 
 `);
     message.channel.send(help);
