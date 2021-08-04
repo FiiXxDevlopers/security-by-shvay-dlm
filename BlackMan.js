@@ -44,16 +44,14 @@ client.on("message", async message => {
     
       .setDescription(`
       
-  __ [invite](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [Support](https://discord.gg/kxFvrqV9Qu)
-
-━──╮•╭──━
+  __ [Click Your INVITE](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [Click Your SUPPORT](https://discord.gg/kxFvrqV9Qu)
+•
 ⌖| Security
 > anti ban [Number]
 > anti kick [Number]
 > anti channel [Number]
 > anti role [Number]
-> anti bot [on / off]
-⌖| Public
+> anti bot [on / off]⌖| Public
 > bot , server , ping , profile , uinvites , hightRole , nick
 > user , avatar , roles , emoji⌖| Moderation
 > , ban , kick , mute , unmute , slowmode , bans
