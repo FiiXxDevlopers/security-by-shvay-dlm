@@ -45,7 +45,7 @@ client.on("message", async message => {
       .setDescription(`
 <a:emoji_6:872568929325842506> PRIFIX ( s! )   
 
-  __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=829039166141890631&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/kxFvrqV9Qu) __ 
+  __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=868483399617237022&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/3VvvreDEwH) __ 
 
 <:emoji_3:872565620598767686> / 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 /
 > 𝚊𝚗𝚝𝚒 𝚋𝚊𝚗 { NUMBER }
