@@ -43,21 +43,20 @@ client.on("message", async message => {
       .setThumbnail(message.guild.iconURL)
     
       .setDescription(`
-<a:emoji_6:872568929325842506> PRIFIX ( s! )   
 
-  __ [INVITE](https://discord.com/api/oauth2/authorize?client_id=868483399617237022&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/3VvvreDEwH) __ 
+__ [Click Here To Add: Security](https://discord.com/api/oauth2/authorize?client_id=868483399617237022&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/3VvvreDEwH) __ 
 
-<:emoji_3:872565620598767686> / 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 /
+**__ :CertifiedBadge:|Security Commands __**
 > 𝚊𝚗𝚝𝚒 𝚋𝚊𝚗 { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚔𝚒𝚔 { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 ( 𝙳 - 𝙲 ) { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚛𝚘𝚕𝚎 ( 𝙳 - 𝙲 ) { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚋𝚘𝚝 ( 𝙾𝙽 / 𝙾𝙵 ) 
-<:emoji_4:872568224015859712>  / 𝙋𝙐𝘽𝙇𝙄𝘾 /
+**__ :emoji_76:|Public Commands __**
 > 𝚋𝚘𝚝 , 𝚜𝚎𝚛𝚟𝚎𝚛 , 𝚙𝚒𝚗𝚐 , 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ,
 𝚞𝚒𝚗𝚟𝚒𝚝𝚎𝚜 , 𝚑𝚒𝚐𝚑𝚛𝚘𝚕𝚎 , 𝚗𝚒𝚌𝚔
 > 𝚞𝚜𝚎𝚛 , 𝚊𝚟𝚊𝚝𝚊𝚛 , 𝚛𝚘𝚕𝚎𝚜 , 𝚎𝚖𝚘𝚓𝚒 
-<a:emoji_5:872568424503578684> / 𝙈𝙊𝘿𝙀𝙍𝘼𝙏𝙄𝙊𝙉 /
+**__ 📚|Moderation Commands __**
 > 𝚋𝚊𝚗 , 𝚔𝚒𝚌𝚔 , 𝚖𝚞𝚝𝚎 ,𝚞𝚗𝚖𝚞𝚝𝚎
 , 𝚜𝚕𝚘𝚠𝚖𝚘𝚍𝚎 , 𝚋𝚊𝚗𝚜
 > 𝚜𝚊𝚢 , 𝚞𝚗𝚋𝚊𝚗 [ 𝚞𝚜𝚎𝚛(𝙸𝙳)/𝚊𝚕𝚕 ]
