@@ -46,13 +46,13 @@ client.on("message", async message => {
 
 __ [Click Here To Add: Security](https://discord.com/api/oauth2/authorize?client_id=868483399617237022&permissions=8&scope=bot) __  __ [SUPPORT](https://discord.gg/3VvvreDEwH) __ 
 
-**__ :CertifiedBadge:|Security Commands __**
+**__ <:emoji_77:870361505554645042> |Security Commands __**
 > 𝚊𝚗𝚝𝚒 𝚋𝚊𝚗 { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚔𝚒𝚔 { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 ( 𝙳 - 𝙲 ) { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚛𝚘𝚕𝚎 ( 𝙳 - 𝙲 ) { NUMBER }
 > 𝚊𝚗𝚝𝚒 𝚋𝚘𝚝 ( 𝙾𝙽 / 𝙾𝙵 ) 
-**__ <:emoji_76:872790142119706634>|Public Commands __**
+**__ <:emoji_76:870361742100824064> |Public Commands __**
 > 𝚋𝚘𝚝 , 𝚜𝚎𝚛𝚟𝚎𝚛 , 𝚙𝚒𝚗𝚐 , 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ,
 𝚞𝚒𝚗𝚟𝚒𝚝𝚎𝚜 , 𝚑𝚒𝚐𝚑𝚛𝚘𝚕𝚎 , 𝚗𝚒𝚌𝚔
 > 𝚞𝚜𝚎𝚛 , 𝚊𝚟𝚊𝚝𝚊𝚛 , 𝚛𝚘𝚕𝚎𝚜 , 𝚎𝚖𝚘𝚓𝚒 
